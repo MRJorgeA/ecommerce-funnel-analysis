@@ -11,22 +11,23 @@ Analizar el recorrido del usuario dentro del funnel de conversión para detectar
 - Funnel Analysis
 - Cohort Analysis
 - KPI Analysis
+- Excel
 
 ## Process
-- Extracción y consulta de eventos de usuario
+- Extracción y análisis de eventos de usuario
 - Medición de conversión por etapa
-- Segmentación de comportamiento por país
-- Análisis de retención por cohortes
+- Segmentación de resultados por país
+- Evaluación de retención por cohortes
+- Resumen ejecutivo de hallazgos clave
 
 ## Key Findings
-- Se identificó una caída importante entre la selección de producto y el agregado al carrito
-- Existen diferencias relevantes en conversión entre países
-- La retención temprana muestra puntos críticos de abandono
+- Se detectó una caída importante entre la selección de producto y el agregado al carrito
+- Se observaron diferencias relevantes en conversión entre países
+- La retención temprana mostró puntos críticos de abandono
 
 ## Business Value
-Este análisis permite detectar oportunidades concretas para optimizar la experiencia del usuario, mejorar la conversión y fortalecer la retención.
+Este análisis permite identificar oportunidades para optimizar la experiencia del usuario, mejorar la conversión y fortalecer la retención.
 
 ## Repository Contents
 - `README.md`: resumen del proyecto
-- Archivo SQL con consultas y análisis
-- Recursos adicionales del proyecto
+- `ecommerce_funnel_retention_analysis.xlsx`: resumen ejecutivo del análisis
